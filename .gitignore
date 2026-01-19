@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 .nuget/ 
 .local/ 
 .project/ 
 *.log 
 *.tmp 
+=======
+.nuget/
+.project/
+.local/
+*.user
+*.tmp
+*.log
+>>>>>>> 00f66996239ff1cf570a782ef4149dada4a6f9b4
