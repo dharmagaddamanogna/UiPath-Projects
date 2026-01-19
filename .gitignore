@@ -1,0 +1,5 @@
+.nuget/ 
+.local/ 
+.project/ 
+*.log 
+*.tmp 
