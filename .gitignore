@@ -1,1 +1,6 @@
-.nuget/.project/*.user*.tmp*.log
+.nuget/
+.project/
+.local/
+*.user
+*.tmp
+*.log
